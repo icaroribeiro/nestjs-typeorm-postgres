@@ -1,0 +1,17 @@
+Criar um projeto:
+
+npm i -g @nestjs/cli
+
+nest new project-name ou npx @nestjs/cli new project-name
+
+git clone https://github.com/nestjs/typescript-starter
+
+cd project
+
+npm install
+
+Eu utilizei o comando:
+
+npx @nestjs/cli new api --skip-git
+
+-----------
